@@ -1,0 +1,120 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedec-Benz C-Class",
+      "description": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so handli...",
+      "price": 199
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedec-Benz SLA-Class",
+      "description": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so handli...",
+      "price": 199
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altimg": "vegy",
+      "title": "2021 Mercedec-Benz SCL-Class",
+      "description": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so handli...",
+      "price": 199
+    }
+  ],
+  "requests": [
+    {
+      "name": "Muhammad Ali",
+      "phone": "+998934026866",
+      "id": 1
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "cew",
+      "id": 2
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "+998934026866",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 5
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 6
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 7
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 8
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 9
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 10
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 11
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 12
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 13
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 14
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 15
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 16
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 17
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 18
+    },
+    {
+      "name": "Muhammad Ali",
+      "phone": "998889996301",
+      "id": 19
+    }
+  ]
+}
